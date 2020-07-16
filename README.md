@@ -4,3 +4,4 @@
 # Jesse Jinna Ruiz
 ## Data Scientist and Data Visualization Specialist
 <p> Pronouns: she/her, they/them </p>
+<p> 👩🏽‍🎓 Barnard College, University of Wisconsin-Madison, Codeup </p>
