@@ -4,4 +4,5 @@
 # Jesse Jinna Ruiz
 ## Data Scientist and Data Visualization Specialist
 <p> Pronouns: she/her, they/them </p>
-<p> 👩🏽‍🎓 Barnard College, University of Wisconsin-Madison, Codeup </p>
+<p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
+<p> Currently working on Tableau Certified Associate exam prep and Hadoop while also participating in #MOM </p>
