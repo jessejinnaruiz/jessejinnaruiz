@@ -3,5 +3,4 @@
 
 # Jesse Jinna Ruiz
 ## Data Scientist and Data Visualization Specialist
-
-
+<p> Pronouns: she/her, they/them </p>
