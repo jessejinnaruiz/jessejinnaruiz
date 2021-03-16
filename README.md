@@ -3,6 +3,6 @@
 
 # Jesse Jinna Ruiz
 ## Data Engineer
-<p> Pronouns: she/her, they/them </p>
+<p> Pronouns: she/they </p>
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
-<p> Currently working on Tableau Certified Associate exam prep and GCP training.</p>
+<p> Currently working on Google Cloud Platform training and cryptoart.</p>
