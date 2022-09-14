@@ -5,7 +5,7 @@
 ## Data Engineer & Artist
 <p> Pronouns: she/her, they/them </p>
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
-<p> Currently learning about and working on NFTs and generative art.</p> 
+<p> Currently learning analytic modeling, Snowflake and SQL.</p> 
 <p>You can read more about my story at <a href="https://jessejruiz.com/" >my website.</a></p>
 
 Connect with me on these platforms:
