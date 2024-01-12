@@ -2,10 +2,9 @@
 **jessejinnaruiz/jessejinnaruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. yaya -->
 
 # Jesse Jinna Ruiz
-📍Austin, TX
 ## Data Engineer, Data Visualization Specialist & Artist
 <p> Pronouns: she/her, they/them </p>
-
+📍Austin, TX
 <p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics 
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
 
