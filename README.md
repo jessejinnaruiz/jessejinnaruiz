@@ -4,7 +4,7 @@
 # Jesse Jinna Ruiz
 ## Data Engineer, Data Visualization Specialist & Artist
 <p> Pronouns: she/her, they/them </p>
-📍Austin, TX
+<p>📍Austin, TX  </p>
 <p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics 
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
 
