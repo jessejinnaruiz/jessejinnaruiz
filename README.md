@@ -13,5 +13,6 @@
 
 Connect with me on these platforms:
 
-<a href="https://jjr8888.medium.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/> <a href="https://www.linkedin.com/in/jesse-jinna-ruiz/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>  
+<a href="https://jjr8888.medium.com/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/></a>
+<a href="https://www.linkedin.com/in/jesse-jinna-ruiz/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/></a> 
 
