@@ -2,7 +2,7 @@
 **jessejinnaruiz/jessejinnaruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. yaya -->
 
 # Jesse Jinna Ruiz
-## Data Visualization Specialist & Artist
+## Data Visualization Specialist / Analyst
 <p> Pronouns: she/her, they/them </p>
 <p>📍Austin, TX  </p>
 <p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics (Currently in CSE 6242 Data Vis)
