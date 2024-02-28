@@ -11,7 +11,7 @@
 <p> Currently learning data visualization, cloud computing and SQL. Student at Georgia Tech anticipated graduation date of Dec 2026.</p> 
 <p>You can read more about my story at <a href="https://jessejruiz.com/" >my website.</a></p>
 
-<p>Check out my data vizualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
+<p>Check out my data visualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
 
 <p>Check out my data science projects here: 
 <ol>
