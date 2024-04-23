@@ -5,7 +5,7 @@
 ## Data Visualization Specialist / Analyst
 <p> Pronouns: she/her, they/them </p>
 <p>📍Austin, TX  </p>
-<p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics (Currently in CSE 6242 Data Vis)
+<p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
 
 <p> Currently learning data visualization, cloud computing and SQL. Student at Georgia Tech anticipated graduation date of Dec 2026.</p> 
