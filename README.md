@@ -8,7 +8,7 @@
 <p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics (I'm currently taking: <a href="https://docs.google.com/document/d/1UK3pwH22Be_F2Uizyoa_XPf48mAJRP1n/edit?usp=sharing&ouid=115426262662427708065&rtpof=true&sd=true" >CS6400 DATABASE SYSTEMS CONCEPTS AND DESIGN </a>)
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
 
-<p> Currently learning data visualization, cloud computing and SQL. Student at Georgia Tech anticipated graduation date of Dec 2026.</p> 
+<p> Currently learning data visualization, A-Frame, webGL, and three.js. Student at Georgia Tech anticipated graduation date of Dec 2026.</p> 
 <p>You can read more about my story at <a href="https://jessejruiz.com/" >my website.</a></p>
 
 <p>Check out my data visualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
