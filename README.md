@@ -2,13 +2,13 @@
 **jessejinnaruiz/jessejinnaruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. yaya -->
 
 # Jesse Jinna Ruiz
-## Data Engineer / Visualization Specialist / Analyst
+## Data Engineer
 <p> Pronouns: she/her, they/them </p>
 <p>📍Austin, TX  </p>
 <p> 👩🏽‍🎓(current): Georgia Institute of Technology MS in Analytics
 <p> 👩🏽‍🎓: Barnard College, University of Wisconsin-Madison, Codeup </p>
 
-<p> Currently learning data visualization, A-Frame, webGL, and three.js. Student at Georgia Tech anticipated graduation date of Dec 2026.</p> 
+<p> Currently learning data architecture, cloud architecture, data engineering, carpentry. Student at Georgia Tech anticipated graduation date of Dec 2027.</p> 
 <p>You can read more about my story at <a href="https://jessejruiz.com/" >my website.</a></p>
 
 <p>Check out my data visualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
