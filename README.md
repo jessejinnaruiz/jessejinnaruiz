@@ -12,7 +12,7 @@
 <p>You can read more about my story at <a href="https://jessejruiz.com/" >my website.</a></p>
 
 <p>Check out my data visualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
-
+<p>A more curated portfolio of my various projects here:  https://jessejinnaruiz.github.io/</p>
 <p>Check out my data science projects here: 
 <ol>
   <li>Domestic Violence Recidivism: https://github.com/codeup-capstone-one/domestic-violence</li>
