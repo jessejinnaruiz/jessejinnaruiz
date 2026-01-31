@@ -13,13 +13,6 @@
 
 <p>Check out my data visualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
 <p>A more curated portfolio of my various projects here:  https://jessejinnaruiz.github.io/</p>
-<p>Check out my data science projects here: 
-<ol>
-  <li>Domestic Violence Recidivism: https://github.com/codeup-capstone-one/domestic-violence</li>
-  <li>The Movement of Unaccompanied Minors in Texas: https://public.tableau.com/app/profile/jesse.ruiz/viz/TX_dfps_wb1/ComparingChildPopulationwithDFPSandUSBPCases</li>
-  <li>Github Natural Language Processing Predictor for Repos: https://github.com/jessejinnaruiz/codeup-ds-projects/blob/master/jesse_nlp_nb.ipynb</li>
-</ol>
-</p>
 
 Connect with me on these platforms:
 
