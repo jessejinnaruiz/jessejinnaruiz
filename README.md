@@ -10,8 +10,6 @@
 
 <p> Currently building manufacturing data platforms at Ovivo while learning all about business. Student at Georgia Tech anticipated graduation date of Dec 2027.</p> 
 <p>You can read more about my story at <a href="https://jessejruiz.com/" >my website.</a></p>
-
-<p>Check out my data visualizations here: https://public.tableau.com/app/profile/jesse.ruiz/vizzes#!/</p>
 <p>A more curated portfolio of my various projects here:  https://jessejinnaruiz.github.io/</p>
 
 Connect with me on these platforms:
